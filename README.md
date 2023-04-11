@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐧 Linux - Ubuntu Server, Debian, RedHat EL, Fedora.<br><br>⚙️ DevOps - GIT, Docker, Kubernetes, Ansible, Jenkins, Teamcity, Terraform, Sonarqube.<br><br>🗄️ Databases - Mysql, Oracle, SQLite, PostgreSQL, MongoDB, Redis.<br><br>🌐 Languages - Portuguese, English, Spanish.<br><br>"Those who can imagine anything, can create the impossible" - Alan Turing
+🙋🏽 Technology Enthusiast<br><br>🐧 Linux - Ubuntu Server, Debian, RedHat EL, Fedora.<br><br>⚙️ DevOps - GIT, Docker, Kubernetes, Ansible, Jenkins, Teamcity, Terraform, Sonarqube.<br><br>🗄️ Databases - Mysql, Oracle, SQLite, PostgreSQL, MongoDB, Redis.<br><br>🌐 Languages - Portuguese, English, Spanish.<br><br>"Those who can imagine anything, can create the impossible" - Alan Turing
 
 
 ## 🌐 Socials:
